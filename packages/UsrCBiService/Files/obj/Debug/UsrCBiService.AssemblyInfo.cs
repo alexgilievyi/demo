@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsrCBiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9f4084f0881ec3540728a843ac8d73743c50b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3239ea9545095e39a7d8530cd14daa757a0d060e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsrCBiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsrCBiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

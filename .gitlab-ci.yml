@@ -12,4 +12,7 @@ deploy:
   script:
     - dotnet tool install clio --tool-path ./clio-tool
     - ./clio-tool/clio.exe pushw -l $STAGING_LOGIN -p $STAGING_PWD -u $STAGING_URL
-    - ./clio-tool/clio.exe restart -l $STAGING_LOGIN -p $STAGING_PWD -u $STAGING_URL
+    - ./clio-tool/clio.exe compile-creatio -l $STAGING_LOGIN -p $STAGING_PWD -u $STAGING_URL
+    - ./clio-tool/clio.exe ping -l $STAGING_LOGIN -p $STAGING_PWD -u $STAGING_URL
+    - ./clio-tool/clio.exe restorew -l $STAGING_LOGIN -p $STAGING_PWD -u $STAGING_URL
+    - ./clio-tool/clio.exe publish-workspace -l $STAGING_LOGIN -p $STAGING_PWD -u $STAGING_URL

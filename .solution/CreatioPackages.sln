@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{6e999798-ff60-4248-9feb-5ff022369c03}") = "UsrCBiService", "..\packages\UsrCBiService\Files\UsrCBiService.csproj", "{1b318622-1c95-4b0f-a3b6-373e20b2403c}"
+Project("{e2a14a41-a774-44a3-adc0-bb7386de4e5d}") = "UsrCBiService", "..\packages\UsrCBiService\Files\UsrCBiService.csproj", "{d63ee632-7616-480e-ab14-6d1c4c50611c}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -7,9 +7,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-			{1b318622-1c95-4b0f-a3b6-373e20b2403c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-			{1b318622-1c95-4b0f-a3b6-373e20b2403c}.Debug|Any CPU.Build.0 = Debug|Any CPU
-			{1b318622-1c95-4b0f-a3b6-373e20b2403c}.Release|Any CPU.ActiveCfg = Release|Any CPU
-			{1b318622-1c95-4b0f-a3b6-373e20b2403c}.Release|Any CPU.Build.0 = Release|Any CPU
+			{d63ee632-7616-480e-ab14-6d1c4c50611c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{d63ee632-7616-480e-ab14-6d1c4c50611c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{d63ee632-7616-480e-ab14-6d1c4c50611c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{d63ee632-7616-480e-ab14-6d1c4c50611c}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
