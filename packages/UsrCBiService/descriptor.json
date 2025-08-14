@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b7b0680-9471-4494-82c8-55fb2339e430",
+    "Name": "UsrCBiService",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrCBiService.csproj",
+    "DependsOn": []
+  }
+}
